@@ -3,6 +3,6 @@ Hi there 👋
 
 🌱 I’m currently learning Linear Algebra, web apps , cloud computing, and always PYTHON coding
 
-💬 Ask me about Statistical ML and NLP systems
+💬 Ask me about ML deployment strategies,REST API's, and NLP usecases
 
 📫 How to reach me: LinkedIn
